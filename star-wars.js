@@ -1,4 +1,4 @@
-const starwars = {
+const starWars = {
     title: 'Special Look | The Mandalorian | Disney+',
     username: 'Star Wars',
     image: 'path to where image is located',
@@ -7,4 +7,4 @@ const starwars = {
     uploaded: '1 day ago'
 };
 
-console.log(starwars.title);
+console.log(starWars.title);
